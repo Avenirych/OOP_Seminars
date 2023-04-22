@@ -1,6 +1,4 @@
-package Cocao;
-
-import HotDrink;
+package org.example.Cocao;
 
 import java.util.ArrayList;
 import java.util.List;
